@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TYRM8G+mhL/tpXo1u26mI5rE/uEOgNOu78fgjRTFBnJGE6DrK6FH4+WpJ9i/pGDlvbx3u5zslQjACrL5jNdTNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Biel\\Documents\\workspaces\\vs\\ExportarDados\\ExportarDados\\ExportarDados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Biel\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
